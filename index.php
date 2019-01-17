@@ -2,5 +2,6 @@
 
 echo "Olá mundo 456!";
 
-echo "Oi gente";
+echo "Olá pessoas!";
+
 ?>
